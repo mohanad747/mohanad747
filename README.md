@@ -25,10 +25,6 @@ There's even a tilt mini-game.
 
 <br clear="right">
 
-- **WiFi Passive Intelligence Dashboard** - Python/Scapy/SQLite tool that turns real
-  802.11 captures into something readable (probe requests, devices, networks).
-- **Omani heritage site** - an interactive 3D website built with Three.js, GSAP and WebGL shaders.
-
 ## Right now
 Learning cryptography this semester and slowly building a portable security toolkit.
 
